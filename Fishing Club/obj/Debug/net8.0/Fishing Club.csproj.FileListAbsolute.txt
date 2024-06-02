@@ -1,0 +1,20 @@
+C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\Fishing Club.exe
+C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\Fishing Club.deps.json
+C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\Fishing Club.runtimeconfig.json
+C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\Fishing Club.dll
+C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\Fishing Club.pdb
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing Club.AssemblyInfoInputs.cache
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing Club.AssemblyInfo.cs
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing Club.csproj.CoreCompileInputs.cache
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing Club.dll
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\refint\Fishing Club.dll
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing Club.pdb
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing Club.genruntimeconfig.cache
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\ref\Fishing Club.dll
+C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\contest1.txt
+C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\input.txt
+C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\TextFile.dll
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing Club.csproj.AssemblyReference.cache
+C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing .F8371238.Up2Date
+C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\contest2.txt

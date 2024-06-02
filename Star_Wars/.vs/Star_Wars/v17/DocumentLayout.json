@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|c:\\users\\erlan\\source\\repos\\star_wars\\solarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|solutionrelative:solarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|c:\\users\\erlan\\source\\repos\\star_wars\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|solutionrelative:planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|c:\\users\\erlan\\source\\repos\\star_wars\\ironclad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|solutionrelative:ironclad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|c:\\users\\erlan\\source\\repos\\star_wars\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|solutionrelative:transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|c:\\users\\erlan\\source\\repos\\star_wars\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|solutionrelative:starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|c:\\users\\erlan\\source\\repos\\star_wars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|c:\\users\\erlan\\source\\repos\\star_wars\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC621AC3-DDF2-4662-A67C-C5F31B17BBB1}|Star_Wars.csproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\input.txt",
+              "RelativeDocumentMoniker": "input.txt",
+              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\input.txt",
+              "RelativeToolTip": "input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-29T11:52:02.124Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:00:19.323Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SolarSystem.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\SolarSystem.cs",
+              "RelativeDocumentMoniker": "SolarSystem.cs",
+              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\SolarSystem.cs",
+              "RelativeToolTip": "SolarSystem.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwEcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:01:18.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Planet.cs",
+              "RelativeDocumentMoniker": "Planet.cs",
+              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Planet.cs",
+              "RelativeToolTip": "Planet.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:59:26.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ironclad.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Ironclad.cs",
+              "RelativeDocumentMoniker": "Ironclad.cs",
+              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Ironclad.cs",
+              "RelativeToolTip": "Ironclad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:51:03.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Transport.cs",
+              "RelativeDocumentMoniker": "Transport.cs",
+              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Transport.cs",
+              "RelativeToolTip": "Transport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:46:57.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Starship.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Starship.cs",
+              "RelativeDocumentMoniker": "Starship.cs",
+              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Starship.cs",
+              "RelativeToolTip": "Starship.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:00:40.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
