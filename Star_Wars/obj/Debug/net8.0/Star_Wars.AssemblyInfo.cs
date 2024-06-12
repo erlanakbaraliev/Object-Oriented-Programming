@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Star_Wars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8378f147571fe2d1006dff88f2ff3856f1288ac2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Star_Wars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Star_Wars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

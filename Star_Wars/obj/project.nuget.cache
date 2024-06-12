@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xHf/lrPgkYw=",
+  "dgSpecHash": "LkiJlp5VPuQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Star_Wars.csproj",
+  "projectFilePath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Star_Wars\\Star_Wars.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erlan\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.webforms\\150.1620.0\\microsoft.reportingservices.reportviewercontrol.webforms.150.1620.0.nupkg.sha512",
     "C:\\Users\\erlan\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512"

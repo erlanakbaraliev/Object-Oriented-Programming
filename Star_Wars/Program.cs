@@ -10,7 +10,7 @@ namespace Star_Wars
     {
         
         static void Main(string[] args)
-        {   
+        {
             SolarSystem solarSystem = new SolarSystem();
 
             solarSystem.MaxPowerShip();

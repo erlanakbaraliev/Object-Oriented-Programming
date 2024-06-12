@@ -12,3 +12,21 @@ C:\Users\erlan\OneDrive\Документы\ELTE\3-semester\OOP\Class11\Fun Fair\
 C:\Users\erlan\OneDrive\Документы\ELTE\3-semester\OOP\Class11\Fun Fair\obj\Debug\net8.0\Fun Fair.pdb
 C:\Users\erlan\OneDrive\Документы\ELTE\3-semester\OOP\Class11\Fun Fair\obj\Debug\net8.0\Fun Fair.genruntimeconfig.cache
 C:\Users\erlan\OneDrive\Документы\ELTE\3-semester\OOP\Class11\Fun Fair\obj\Debug\net8.0\ref\Fun Fair.dll
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\bin\Debug\net8.0\Fun Fair.exe
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\bin\Debug\net8.0\Fun Fair.deps.json
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\bin\Debug\net8.0\Fun Fair.runtimeconfig.json
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\bin\Debug\net8.0\Fun Fair.dll
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\bin\Debug\net8.0\Fun Fair.pdb
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\bin\Debug\net8.0\TextFile.dll
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.csproj.AssemblyReference.cache
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.AssemblyInfoInputs.cache
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.AssemblyInfo.cs
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.csproj.CoreCompileInputs.cache
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.sourcelink.json
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.csproj.Up2Date
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.dll
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\refint\Fun Fair.dll
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.pdb
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\Fun Fair.genruntimeconfig.cache
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fun Fair\obj\Debug\net8.0\ref\Fun Fair.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erlan\\source\\repos\\Fishing Club\\Fishing Club.csproj",
+      "projectUniqueName": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Fishing Club\\Fishing Club.csproj",
       "projectName": "Fishing Club",
-      "projectPath": "C:\\Users\\erlan\\source\\repos\\Fishing Club\\Fishing Club.csproj",
+      "projectPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Fishing Club\\Fishing Club.csproj",
       "packagesPath": "C:\\Users\\erlan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erlan\\source\\repos\\Fishing Club\\obj\\",
+      "outputPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Fishing Club\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erlan\\AppData\\Roaming\\NuGet\\NuGet.Config",

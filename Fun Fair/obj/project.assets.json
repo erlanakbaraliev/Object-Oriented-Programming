@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erlan\\OneDrive\\Документы\\ELTE\\3-semester\\OOP\\Class11\\Fun Fair\\Fun Fair.csproj",
+      "projectUniqueName": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Fun Fair\\Fun Fair.csproj",
       "projectName": "Fun Fair",
-      "projectPath": "C:\\Users\\erlan\\OneDrive\\Документы\\ELTE\\3-semester\\OOP\\Class11\\Fun Fair\\Fun Fair.csproj",
+      "projectPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Fun Fair\\Fun Fair.csproj",
       "packagesPath": "C:\\Users\\erlan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erlan\\OneDrive\\Документы\\ELTE\\3-semester\\OOP\\Class11\\Fun Fair\\obj\\",
+      "outputPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Fun Fair\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erlan\\AppData\\Roaming\\NuGet\\NuGet.Config",

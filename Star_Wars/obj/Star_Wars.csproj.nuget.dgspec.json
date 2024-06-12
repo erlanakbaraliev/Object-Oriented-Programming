@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Star_Wars.csproj": {}
+    "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Star_Wars\\Star_Wars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Star_Wars.csproj": {
+    "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Star_Wars\\Star_Wars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Star_Wars.csproj",
+        "projectUniqueName": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Star_Wars\\Star_Wars.csproj",
         "projectName": "Star_Wars",
-        "projectPath": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\Star_Wars.csproj",
+        "projectPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Star_Wars\\Star_Wars.csproj",
         "packagesPath": "C:\\Users\\erlan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erlan\\source\\repos\\Star_Wars\\obj\\",
+        "outputPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Star_Wars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erlan\\AppData\\Roaming\\NuGet\\NuGet.Config",

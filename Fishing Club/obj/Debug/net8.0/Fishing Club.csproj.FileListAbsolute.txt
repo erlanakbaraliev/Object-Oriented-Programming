@@ -18,3 +18,11 @@ C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\TextFile.dll
 C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing Club.csproj.AssemblyReference.cache
 C:\Users\erlan\source\repos\Fishing Club\obj\Debug\net8.0\Fishing .F8371238.Up2Date
 C:\Users\erlan\source\repos\Fishing Club\bin\Debug\net8.0\contest2.txt
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fishing Club\obj\Debug\net8.0\Fishing Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fishing Club\obj\Debug\net8.0\Fishing Club.AssemblyInfoInputs.cache
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fishing Club\obj\Debug\net8.0\Fishing Club.AssemblyInfo.cs
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fishing Club\obj\Debug\net8.0\Fishing Club.csproj.CoreCompileInputs.cache
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fishing Club\obj\Debug\net8.0\Fishing Club.sourcelink.json
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fishing Club\obj\Debug\net8.0\Fishing Club.dll
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fishing Club\obj\Debug\net8.0\refint\Fishing Club.dll
+C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Fishing Club\obj\Debug\net8.0\Fishing Club.pdb

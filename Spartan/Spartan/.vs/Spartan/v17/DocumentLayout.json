@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\exam\\spartan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\exam\\spartan\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|solutionrelative:competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\exam\\spartan\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|solutionrelative:result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\exam\\spartan\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\exam\\spartan\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2DC800-4967-4E35-B670-8D461BF717D1}|Spartan.csproj|solutionrelative:competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Competitor.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Competitor.cs",
+              "RelativeDocumentMoniker": "Competitor.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Competitor.cs",
+              "RelativeToolTip": "Competitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:26:11.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Result.cs",
+              "RelativeDocumentMoniker": "Result.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Result.cs",
+              "RelativeToolTip": "Result.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:21:36.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:14:07.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Competition.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Competition.cs",
+              "RelativeDocumentMoniker": "Competition.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Competition.cs",
+              "RelativeToolTip": "Competition.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:44:20.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Exam\\Spartan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:03:40.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

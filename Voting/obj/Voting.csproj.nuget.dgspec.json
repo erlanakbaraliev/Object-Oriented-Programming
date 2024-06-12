@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erlan\\source\\repos\\Voting\\Voting.csproj": {}
+    "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Voting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erlan\\source\\repos\\Voting\\Voting.csproj": {
+    "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Voting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erlan\\source\\repos\\Voting\\Voting.csproj",
+        "projectUniqueName": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Voting.csproj",
         "projectName": "Voting",
-        "projectPath": "C:\\Users\\erlan\\source\\repos\\Voting\\Voting.csproj",
+        "projectPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Voting.csproj",
         "packagesPath": "C:\\Users\\erlan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erlan\\source\\repos\\Voting\\obj\\",
+        "outputPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erlan\\AppData\\Roaming\\NuGet\\NuGet.Config",

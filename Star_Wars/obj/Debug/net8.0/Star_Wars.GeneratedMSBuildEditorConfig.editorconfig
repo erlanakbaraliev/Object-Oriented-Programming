@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Star_Wars
-build_property.ProjectDir = C:\Users\erlan\source\repos\Star_Wars\
+build_property.ProjectDir = C:\Users\erlan\Documents\ELTE\3-semester\OOP\Exam_Prep\Samples\Star_Wars\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\erlan\\source\\repos\\Voting\\",
+  "WorkspaceRootPath": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\source\\repos\\voting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\voting\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\source\\repos\\voting\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\voting\\constitutional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:constitutional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\source\\repos\\voting\\congressmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\voting\\congressmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:congressmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\source\\repos\\voting\\parliament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\voting\\draftlaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:draftlaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\voting\\parliament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:parliament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\source\\repos\\voting\\draftlaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:draftlaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\voting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|c:\\users\\erlan\\documents\\elte\\3-semester\\oop\\exam_prep\\samples\\voting\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D46D0293-6FD0-4C3F-9CBA-9A9DBADBDDEB}|Voting.csproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Party.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Party.cs",
+              "RelativeDocumentMoniker": "Party.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Party.cs",
+              "RelativeToolTip": "Party.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:01:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constitutional.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Constitutional.cs",
+              "RelativeDocumentMoniker": "Constitutional.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Constitutional.cs",
+              "RelativeToolTip": "Constitutional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:01:42.504Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Congressmen.cs",
-              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Voting\\Congressmen.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Congressmen.cs",
               "RelativeDocumentMoniker": "Congressmen.cs",
-              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Voting\\Congressmen.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Congressmen.cs",
               "RelativeToolTip": "Congressmen.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCkAAAAZAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T08:52:31.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "input.txt",
-              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Voting\\input.txt",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\input.txt",
               "RelativeDocumentMoniker": "input.txt",
-              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Voting\\input.txt",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\input.txt",
               "RelativeToolTip": "input.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-05-30T06:54:23.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DraftLaw.cs",
-              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Voting\\DraftLaw.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\DraftLaw.cs",
               "RelativeDocumentMoniker": "DraftLaw.cs",
-              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Voting\\DraftLaw.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\DraftLaw.cs",
               "RelativeToolTip": "DraftLaw.cs",
-              "ViewState": "AQIAABYAAADAzMzMzMwiwCMAAAAJAAAA",
+              "ViewState": "AQIAABIAAADAmZmZmZklwCMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T08:26:59.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Parliament.cs",
-              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Voting\\Parliament.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Parliament.cs",
               "RelativeDocumentMoniker": "Parliament.cs",
-              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Voting\\Parliament.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Parliament.cs",
               "RelativeToolTip": "Parliament.cs",
-              "ViewState": "AQIAAHcAAAAAZ2ZmZmYiwIgAAAAYAAAA",
+              "ViewState": "AQIAAHgAAABgMzMzMzMpwCgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T08:25:58.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\erlan\\source\\repos\\Voting\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\erlan\\source\\repos\\Voting\\Program.cs",
+              "ToolTip": "C:\\Users\\erlan\\Documents\\ELTE\\3-semester\\OOP\\Exam_Prep\\Samples\\Voting\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAQwHoAAAAAAAAA",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAYwIIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T06:24:32.708Z",
               "EditorCaption": ""
